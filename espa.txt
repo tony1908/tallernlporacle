@@ -1,0 +1,10 @@
+1	Hola Humano
+1	Hola como estas?.
+1	Buenas tardes.
+1	que tal.
+1	Holi.
+0	Me gusta programar.
+0	programar es lo mejor.
+0	crear codigo es muy bueno.
+0	el codigo es increible.
+0	coding es lo mejor.
